@@ -1,0 +1,9 @@
+route_id,station,final_destination,total_distance_km,recommended_mode,estimated_total_time_min,recommendation_reason,data_source
+R001,Vijayawada Junction,Andhra Loyola College,5.8,Auto,17,Best balance of travel time and estimated fare,Synthetic
+R002,Vijayawada Junction,Benz Circle,4.3,Auto,14,Faster than bus with moderate estimated fare,Synthetic
+R003,Vijayawada Junction,Vijayawada Bus Stand,2.2,Auto,9,Shortest travel time,Synthetic
+R004,Vijayawada Junction,Kanaka Durga Temple,3.8,Auto,16,Good balance of cost and travel time,Synthetic
+R005,Vijayawada Junction,Bhavanipuram,4.7,Auto,18,Convenient direct connection,Synthetic
+R006,Vijayawada Junction,Ramavarappadu,7,Auto,22,Faster than public bus option,Synthetic
+R007,Guntur Junction,Guntur Medical College,4,Auto,15,Short journey with moderate estimated fare,Synthetic
+R008,Tirupati,Tirumala Bus Station,5.8,Bus,30,Lowest estimated fare among available options,Synthetic

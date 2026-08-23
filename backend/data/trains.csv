@@ -1,0 +1,16 @@
+train_number,train_name,origin,destination,departure,arrival,duration,classes,availability,fare
+12711,Pinakini Express,Chennai Central,Vijayawada Junction,06:10,13:00,06:50,"SL, 3A, 2A",Available,520
+12839,Chennai–Howrah Mail,Chennai Central,Vijayawada Junction,09:15,16:30,07:15,"SL, 3A, 2A",Available,560
+12603,Charminar Express,Chennai Central,Vijayawada Junction,18:10,01:20,07:10,"SL, 3A, 2A",Limited,545
+12864,Howrah Express,Chennai Central,Vijayawada Junction,20:30,03:45,07:15,"SL, 3A, 2A",Available,550
+12759,Charminar Superfast,Chennai Central,Vijayawada Junction,21:05,04:10,07:05,"SL, 3A",Available,510
+16003,MAS–BZA Express,Chennai Central,Vijayawada Junction,05:45,13:20,07:35,"SL, 3A",Available,480
+12615,Grand Trunk Express,Chennai Central,Vijayawada Junction,19:15,02:25,07:10,"SL, 3A, 2A, 1A",Limited,590
+12842,Coromandel Express,Chennai Central,Vijayawada Junction,07:00,14:05,07:05,"SL, 3A, 2A",Available,575
+12707,Andhra Pradesh Express,Chennai Central,Vijayawada Junction,15:30,22:20,06:50,"SL, 3A, 2A",Available,540
+12739,Garib Rath Express,Chennai Central,Vijayawada Junction,22:10,05:15,07:05,3A,Limited,430
+12625,Kerala Express,Chennai Central,Vijayawada Junction,10:40,18:05,07:25,"SL, 3A, 2A",Available,525
+12807,Jan Shatabdi Express,Chennai Central,Vijayawada Junction,06:45,13:50,07:05,"CC, 2S",Available,390
+12763,Padmavati Express,Chennai Central,Vijayawada Junction,11:20,18:30,07:10,"SL, 3A, 2A",Available,515
+12733,Narayanadri Express,Chennai Central,Vijayawada Junction,16:20,23:30,07:10,"SL, 3A, 2A",Limited,505
+12705,Intercity Express,Chennai Central,Vijayawada Junction,08:05,15:10,07:05,"CC, 2S",Available,410

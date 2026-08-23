@@ -1,0 +1,16 @@
+station_id,station_name,city,state,latitude,longitude,data_source
+MAS001,Chennai Central,Chennai,Tamil Nadu,13.0827,80.2707,Synthetic
+MAS002,Chennai Egmore,Chennai,Tamil Nadu,13.0789,80.2619,Synthetic
+BZA001,Vijayawada Junction,Vijayawada,Andhra Pradesh,16.5178,80.648,Synthetic
+GNT001,Guntur Junction,Guntur,Andhra Pradesh,16.3067,80.4365,Synthetic
+VSKP001,Visakhapatnam Junction,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Synthetic
+TPTY001,Tirupati,Tirupati,Andhra Pradesh,13.6288,79.4192,Synthetic
+RJY001,Rajahmundry,Rajahmundry,Andhra Pradesh,17.0005,81.804,Synthetic
+ELR001,Eluru,Eluru,Andhra Pradesh,16.7107,81.0952,Synthetic
+NLR001,Nellore,Nellore,Andhra Pradesh,14.4426,79.9865,Synthetic
+ONGL001,Ongole,Ongole,Andhra Pradesh,15.5057,80.0499,Synthetic
+KCG001,Kacheguda,Hyderabad,Telangana,17.3577,78.4963,Synthetic
+SC001,Secunderabad Junction,Hyderabad,Telangana,17.4399,78.5017,Synthetic
+HYB001,Hyderabad Deccan,Hyderabad,Telangana,17.393,78.473,Synthetic
+BBS001,Bhubaneswar,Bhubaneswar,Odisha,20.2961,85.8245,Synthetic
+CCT001,Coimbatore Junction,Coimbatore,Tamil Nadu,11.0168,76.9558,Synthetic

@@ -1,0 +1,33 @@
+option_id,station,final_destination,mode,distance_km,duration_min,min_fare,max_fare,availability,fare_type,data_source
+T001,Vijayawada Junction,Andhra Loyola College,Bus,6.2,28,15,25,Available,Estimated,Synthetic
+T002,Vijayawada Junction,Andhra Loyola College,Auto,5.8,17,90,120,Available,Estimated,Synthetic
+T003,Vijayawada Junction,Andhra Loyola College,Cab,5.8,15,140,190,Available,Estimated,Synthetic
+T004,Vijayawada Junction,Andhra Loyola College,Bike,5.7,14,80,110,Available,Estimated,Synthetic
+T005,Vijayawada Junction,Benz Circle,Bus,4.8,22,15,25,Available,Estimated,Synthetic
+T006,Vijayawada Junction,Benz Circle,Auto,4.3,14,70,95,Available,Estimated,Synthetic
+T007,Vijayawada Junction,Benz Circle,Cab,4.3,12,110,150,Available,Estimated,Synthetic
+T008,Vijayawada Junction,Benz Circle,Bike,4.2,11,60,85,Available,Estimated,Synthetic
+T009,Vijayawada Junction,Vijayawada Bus Stand,Bus,2.7,15,10,20,Available,Estimated,Synthetic
+T010,Vijayawada Junction,Vijayawada Bus Stand,Auto,2.2,9,40,60,Available,Estimated,Synthetic
+T011,Vijayawada Junction,Vijayawada Bus Stand,Cab,2.2,8,70,100,Available,Estimated,Synthetic
+T012,Vijayawada Junction,Vijayawada Bus Stand,Bike,2.1,7,40,60,Available,Estimated,Synthetic
+T013,Vijayawada Junction,Kanaka Durga Temple,Bus,4.5,25,15,25,Available,Estimated,Synthetic
+T014,Vijayawada Junction,Kanaka Durga Temple,Auto,3.8,16,65,90,Available,Estimated,Synthetic
+T015,Vijayawada Junction,Kanaka Durga Temple,Cab,3.8,13,100,140,Available,Estimated,Synthetic
+T016,Vijayawada Junction,Kanaka Durga Temple,Bike,3.7,12,55,80,Available,Estimated,Synthetic
+T017,Vijayawada Junction,Bhavanipuram,Bus,5.1,27,15,25,Available,Estimated,Synthetic
+T018,Vijayawada Junction,Bhavanipuram,Auto,4.7,18,75,105,Available,Estimated,Synthetic
+T019,Vijayawada Junction,Bhavanipuram,Cab,4.7,15,115,155,Available,Estimated,Synthetic
+T020,Vijayawada Junction,Bhavanipuram,Bike,4.6,14,65,90,Available,Estimated,Synthetic
+T021,Vijayawada Junction,Ramavarappadu,Bus,7.4,35,15,30,Available,Estimated,Synthetic
+T022,Vijayawada Junction,Ramavarappadu,Auto,7,22,100,135,Available,Estimated,Synthetic
+T023,Vijayawada Junction,Ramavarappadu,Cab,7,18,150,200,Available,Estimated,Synthetic
+T024,Vijayawada Junction,Ramavarappadu,Bike,6.9,17,90,120,Available,Estimated,Synthetic
+T025,Guntur Junction,Guntur Medical College,Bus,4.5,24,12,20,Available,Estimated,Synthetic
+T026,Guntur Junction,Guntur Medical College,Auto,4,15,60,85,Available,Estimated,Synthetic
+T027,Guntur Junction,Guntur Medical College,Cab,4,13,100,135,Available,Estimated,Synthetic
+T028,Guntur Junction,Guntur Medical College,Bike,3.9,12,55,75,Available,Estimated,Synthetic
+T029,Tirupati,Tirumala Bus Station,Bus,5.8,30,30,40,Available,Estimated,Synthetic
+T030,Tirupati,Tirumala Bus Station,Auto,4.9,20,100,140,Available,Estimated,Synthetic
+T031,Tirupati,Tirumala Bus Station,Cab,4.9,17,180,240,Available,Estimated,Synthetic
+T032,Tirupati,Tirumala Bus Station,Bike,4.8,16,90,125,Available,Estimated,Synthetic
