@@ -4,7 +4,7 @@
 
 IRCTC Journey Redesign is a conceptual redesign of the railway booking experience focused on the **complete passenger journey**: train selection, first-mile and last-mile connectivity, travel time, estimated cost, and journey recommendations.
 
-Built for the **Build What Moves India** hackathon.
+
 
 ## 🎯 The Problem
 
@@ -145,13 +145,6 @@ The backend provides API routes, validation, journey planning, transport options
 - PostCSS
 - Tailwind CSS
 
-### About FastAPI
-
-FastAPI is installed as a project dependency, but the current application entry point uses Starlette directly for the web application and routing:
-
-```text
-Starlette → Uvicorn → ASGI application
-```
 
 ## 📁 Project Structure
 
@@ -194,7 +187,7 @@ Codex was used as an AI-assisted coding and debugging tool to accelerate impleme
 
 ```bash
 git clone https://github.com/RadhaDintyala/irctc_journey_redesign.git
-cd irctc_journey_redesign
+cd railx
 ```
 
 ### 2. Install Python
@@ -213,12 +206,6 @@ python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
 
-If PowerShell blocks activation:
-
-```powershell
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
-.venv\Scripts\Activate.ps1
-```
 
 ### 4. Install Backend Dependencies
 
@@ -350,16 +337,6 @@ A production version could integrate live IRCTC/train availability, real-time tr
 ## ⚠️ Current Limitations
 
 This is a synthetic prototype. It does not provide live IRCTC booking, live train availability, live railway fares, live government railway data, live transport provider data, or real-money transactions.
-
-## 🏆 Hackathon
-
-### Build What Moves India
-
-**Project:** IRCTC Journey Redesign
-
-> **Don't just book the train. Plan the journey.**
-
-The project reimagines railway booking as a complete journey-planning experience by connecting the train journey with the first mile and last mile.
 
 ## 📌 Project Summary
 
