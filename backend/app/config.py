@@ -8,7 +8,7 @@ load_dotenv()
 class Settings:
     demo_mode: bool = os.getenv("DEMO_MODE", "true").lower() == "true"
     database_url: str = os.getenv("DATABASE_URL", "sqlite:///./ircts.db")
-    frontend_origin: str = os.getenv("FRONTEND_ORIGIN", "http://localhost:5173")
+    frontend_origin: str = os.getenv("FRONTEND_ORIGIN", "https://railx-five.vercel.app")
     auth_secret: str = os.getenv("AUTH_SECRET", "ircts-prototype-change-this-secret")
     maps_api_key: str = os.getenv("MAPS_API_KEY", "")
     transit_api_key: str = os.getenv("TRANSIT_API_KEY", "")
